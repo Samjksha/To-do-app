@@ -1,0 +1,62 @@
+body{
+    height: 69vh;
+    background-image: -webkit-linear-gradient(rgba(56, 9, 165, 0.737), rgba(69, 5, 90, 0.824)),url("img2.webp");
+    font-family: 'courier new', monospace;
+    font-size: 30px;
+    color: rgb(29, 8, 50);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ 
+ .container{
+    width: 380px;
+    padding: 20px;
+    text-align: center;
+    background-color: #e0d648e8;
+    margin-left: 33%;
+    margin-top:30vh;
+ }
+ input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(28, 9, 47);
+    color:  rgb(28, 9, 47) ;
+    outline: none;
+    font-size: 19px;
+
+
+ }
+ button{
+    width: 60px;
+    height: 41px;
+    background-color: rgb(28, 9, 47);
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+ }
+ .text ul{
+    position: relative;
+    background-color: rgba(28, 9, 47);
+    color: white;
+    font-size: 19px;
+    padding: 8px;
+    text-align: left;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
+
+
+
+
+
+
+
+
+
+
